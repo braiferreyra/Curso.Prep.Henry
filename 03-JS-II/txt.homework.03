@@ -1,0 +1,4 @@
+for = crea un bucle para recorrer todos los elementos 
+&& (and) evalua todos los operados y devuelve un valor booleano dependiendo a su programacion 
+|| (or)=  evalua todos los operados y devuelve un valor booleano dependiendo a su programacion,pero a lo contraio de (&&)
+ ! (not) = sirve para mostrar desigualdad de un elemento a otro 

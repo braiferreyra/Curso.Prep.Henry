@@ -1,0 +1,10 @@
+    *Objetos  = son contenedores de informacion que van entre {}
+	* Propiedades = es una asociacion entre un nomble o clave  y su valor 
+	* Métodos = sirve para hacer correcciones dentro de nuestro archivo js 
+	* Bucle `for…in` = se utiliza para recorer cada uno de los elementos y asignarle ala vez un valor en especifico 
+	* Notación de puntos vs notación de corchetes
+    DOT NOTATION se utiliza para llamar a un valor atravez de su variable posterior a un punto (ejem. Tony.nombre)
+    BRAQUET NOTATION se utiliza para llamar al valor de una varible atravez de [] y comillas ''  (ejem. Tony['nombre'])
+
+
+    

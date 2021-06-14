@@ -1,0 +1,5 @@
+Variables  = es el nombre de la cajita donde se guarda algo 
+Strings = es un texto o una palabra y va entre comillas 
+Funciones (argumentos, return) = es un grupo de instrucciones, que tiene que seguir el Javascript
+Declaraciones if = sirve para dar una instrucion basada en una condicion 
+Valores booleanos (true, false) se da como valor para recibir una respuesta como SI o NO / TRUE o FALSE 
